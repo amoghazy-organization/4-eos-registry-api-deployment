@@ -1,0 +1,4 @@
+deployment:
+  replicas: 2
+ingress:
+  host: prod-micro-services-registry.local
