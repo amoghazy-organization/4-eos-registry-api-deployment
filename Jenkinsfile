@@ -1,4 +1,4 @@
-  def env = "dev"
+  def env = "qa"
   pipeline {
     agent {
         kubernetes {
